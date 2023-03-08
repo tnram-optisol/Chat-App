@@ -1,0 +1,17 @@
+.message{
+  height: 50vh;
+  width: 100%;
+  border: 1px solid black;
+  background-color: lightgreen;
+  font-weight: bolder;
+}
+.send{
+  margin: 10px auto;
+}
+.send input{
+  width: 60%;
+}
+.active{
+  color: white;
+  background-color: green;
+}
